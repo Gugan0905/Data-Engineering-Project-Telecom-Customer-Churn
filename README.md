@@ -1,4 +1,4 @@
-# Telecom Customer Churn - Tableau and Python Data Analysis
+# Telecom Customer Churn - A Data Engineering and Data Analysis project
 This repository contains my project on a End to end data science project on a Telecom Dataset. The project includes the EDA notebook and a Tableau Story for a Stakeholder Report.
 Project highlights:
 1. Tableau Story - Stakeholder Report
@@ -47,4 +47,5 @@ The EDA consists of the following sections:
 # Overview of the Custom ELT Project
 
 Docker based ETL pipeline managing data transfer from src to dest. PostgreSQL RDB, with an integrated Flask UI for data entry. The Airflow/CRON job orchestrated pipeline periodically uploads to Amazon S3 / Redshift, for further EDA and Tableau visualization.
+Proceed in to the *custom-elt-project folder* for more details
 
